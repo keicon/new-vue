@@ -1,0 +1,93 @@
+{
+    "pailei": [
+        {
+            "list": [
+                {
+                    "title": "热门分类",
+                    "ul": [
+                        {
+                            "id": "t1",
+                            "title": "手机",
+                            "url": "/static/img/fenlei/fen1/sort1.png"
+                        },
+                        {
+                            "id": "t2",
+                            "title": "耳机",
+                            "url": "/static/img/fenlei/fen1/sort2.png"
+                        },
+                        {
+                            "id": "t3",
+                            "title": "华为",
+                            "url": "/static/img/fenlei/fen1/sort3.png"
+                        },
+                        {
+                            "id": "t4",
+                            "title": "电饭煲",
+                            "url": "/static/img/fenlei/fen1/sort4.png"
+                        },
+                        {
+                            "id": "t5",
+                            "title": "电磁炉",
+                            "url": "/static/img/fenlei/fen1/sort5.png"
+                        },
+                        {
+                            "id": "t6",
+                            "title": "路由器",
+                            "url": "/static/img/fenlei/fen1/sort6.png"
+                        },
+                        {
+                            "id": "t7",
+                            "title": "避孕套",
+                            "url": "/static/img/fenlei/fen1/sort7.png"
+                        },
+                        {
+                            "id": "t8",
+                            "title": "口红",
+                            "url": "/static/img/fenlei/fen1/sort8.png"
+                        },
+                        {
+                            "id": "t9",
+                            "title": "吹风机",
+                            "url": "/static/img/fenlei/fen1/sort9.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "家电热搜",
+                    "ul": [
+                        {
+                            "id": "t10",
+                            "title": "三只松鼠",
+                            "url": "/static/img/fenlei/fen1/sort10.png"
+                        },
+                        {
+                            "id": "t11",
+                            "title": "洗衣液",
+                            "url": "/static/img/fenlei/fen1/sort11.png"
+                        },
+                        {
+                            "id": "t12",
+                            "title": "保温杯",
+                            "url": "/static/img/fenlei/fen1/sort12.png"
+                        },
+                        {
+                            "id": "t13",
+                            "title": "微波炉",
+                            "url": "/static/img/fenlei/fen1/sort13.png"
+                        },
+                        {
+                            "id": "t14",
+                            "title": "洗发水",
+                            "url": "/static/img/fenlei/fen1/sort14.png"
+                        },
+                        {
+                            "id": "t15",
+                            "title": "卫生巾",
+                            "url": "/static/img/fenlei/fen1/sort15.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

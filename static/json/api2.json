@@ -1,0 +1,674 @@
+{
+    "data": {
+        "floorboos": [
+            {
+                "title": " 粮油调味",
+                "biao": "/static/img/floor/group-purple.png",
+                "one": "/static/img/floor/floor-da1.jpg",
+                "two": "/static/img/floor/floor-da2.jpg",
+                "floor": [
+                    {
+                        "image": "/static/img/floor/floor-xiao-1.jpg",
+                        "goodsName": "牛奶"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-2.jpg",
+                        "goodsName": "坚果炒货"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-3.jpg",
+                        "goodsName": "巧克力/糖果"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-4.jpg",
+                        "goodsName": "饼干"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-5.jpg",
+                        "goodsName": "肉干"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-6.jpg",
+                        "goodsName": "中国劲酒"
+                    }
+                ]
+            },
+            {
+                "title": " 水果",
+                "biao": "/static/img/floor/group-yellow.png",
+                "one": "/static/img/floor/floor-da3.jpg",
+                "two": "/static/img/floor/floor-da4.jpg",
+                "floor": [
+                    {
+                        "image": "/static/img/floor/floor-xiao-7.jpg",
+                        "goodsName": "冷冻冷藏"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-8.jpg",
+                        "goodsName": "猪牛羊肉"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-9.jpg",
+                        "goodsName": "禽肉蛋品"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-10.jpg",
+                        "goodsName": "尿裤湿巾"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-11.jpg",
+                        "goodsName": "健康用品"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-12.jpg",
+                        "goodsName": "喂养用品"
+                    }
+                ]
+            },
+            {
+                "title": "  纸品清洁",
+                "biao": "/static/img/floor/group-red.png",
+                "one": "/static/img/floor/floor-da5.jpg",
+                "two": "/static/img/floor/floor-da6.jpg",
+                "floor": [
+                    {
+                        "image": "/static/img/floor/floor-xiao-13.jpg",
+                        "goodsName": "衣物用品"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-14.jpg",
+                        "goodsName": "厨房用品"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-15.jpg",
+                        "goodsName": "清洁用品"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-16.jpg",
+                        "goodsName": "女性呵护"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-17.jpg",
+                        "goodsName": "身体护理"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-18.jpg",
+                        "goodsName": "面部护理"
+                    }
+                ]
+            },
+            {
+                "title": "   手机通讯",
+                "biao": "/static/img/floor/group-green.png",
+                "one": "/static/img/floor/floor-da7.jpg",
+                "two": "/static/img/floor/floor-da8.jpg",
+                "floor": [
+                    {
+                        "image": "/static/img/floor/floor-xiao-19.jpg",
+                        "goodsName": "空气净化"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-20.jpg",
+                        "goodsName": "吸尘器"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-21.jpg",
+                        "goodsName": "书童"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-22.jpg",
+                        "goodsName": "狗粮"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-23.jpg",
+                        "goodsName": "猫粮"
+                    },
+                    {
+                        "image": "/static/img/floor/floor-xiao-24.jpg",
+                        "goodsName": "宠物粮食"
+                    }
+                ]
+            }
+        ],
+        "category": [
+            {
+                "mallCategoryId": "1",
+                "mallCategoryName": "新品",
+                "comments": null,
+                "image": "/static/img/zj-1.jpg"
+            },
+            {
+                "mallCategoryId": "2",
+                "mallCategoryName": "特惠",
+                "comments": null,
+                "image": "/static/img/zj-2.jpg"
+            },
+            {
+                "mallCategoryId": "3",
+                "mallCategoryName": "衬衫",
+                "comments": null,
+                "image": "/static/img/zj-3.jpg"
+            },
+            {
+                "mallCategoryId": "5",
+                "mallCategoryName": "外套",
+                "comments": null,
+                "image": "/static/img/zj-4.jpg"
+            },
+            {
+                "mallCategoryId": "4",
+                "mallCategoryName": "获奖名单",
+                "comments": null,
+                "image": "/static/img/zj-5.jpg"
+            },
+            {
+                "mallCategoryName": "签到有礼",
+                "comments": null,
+                "image": "static/img/qd.webp"
+            },
+            {
+                "mallCategoryName": "优券中心",
+                "comments": null,
+                "image": "static/img/lj.webp"
+            },
+            {
+                "mallCategoryName": "抢购",
+                "comments": null,
+                "image": "static/img/qg.webp"
+            },
+            {
+                "mallCategoryName": "拼购",
+                "comments": null,
+                "image": "/static/img/pg.webp"
+            },
+            {
+                "mallCategoryName": "更多",
+                "comments": null,
+                "image": "/static/img/gd.webp"
+            }
+        ],
+        "recommend": [
+            {
+                "image": "/static/img/swiper/swiper-1.jpg",
+                "mz": "卫衣"
+            },
+            {
+                "image": "/static/img/swiper/swiper-2.jpg",
+                "mz": "羽绒服"
+            },
+            {
+                "image": "/static/img/swiper/swiper-3.jpg",
+                "mz": "夹克"
+            },
+            {
+                "image": "/static/img/swiper/swiper-4.jpg",
+                "mz": "毛衣"
+            },
+            {
+                "image": "/static/img/swiper/swiper-5.jpg",
+                "mz": "运动服装"
+            },
+            {
+                "image": "/static/img/swiper/swiper-6.jpg",
+                "mz": "女裙"
+            },
+            {
+                "image": "/static/img/swiper/swiper-7.jpg",
+                "mz": "睡衣"
+            },
+            {
+                "image": "/static/img/swiper/swiper-8.jpg",
+                "mz": "风衣"
+            },
+            {
+                "image": "/static/img/swiper/swiper-9.jpg",
+                "mz": "衬衫男"
+            },
+            {
+                "image": "/static/img/swiper/swiper-10.jpg",
+                "mz": "羽绒"
+            },
+            {
+                "image": "/static/img/swiper/swiper-11.jpg",
+                "mz": "卫衣"
+            },
+            {
+                "image": "/static/img/swiper/swiper-12.jpg",
+                "mz": "运动短袖"
+            },
+            {
+                "image": "/static/img/swiper/swiper-13.jpg",
+                "mz": "外套"
+            },
+            {
+                "image": "/static/img/swiper/swiper-14.jpg",
+                "mz": "女裙"
+            },
+            {
+                "image": "/static/img/swiper/swiper-15.jpg",
+                "mz": "外套"
+            }
+        ],
+        "ltart": [
+            {
+                "image": "/static/img/san/san-1.jpg"
+            },
+            {
+                "image": "/static/img/san/san-2.jpg"
+            },
+            {
+                "image": "/static/img/san/san-3.jpg"
+            }
+        ],
+        "hotGoods": [
+            {
+                "id": 1,
+                "man": false,
+                "mallPrice": 240,
+                "image": "/static/img/HotGood/hot-1.jpg",
+                "img": [
+                    "/static/img/list-swiper/list-swiper-1.jpg",
+                    "/static/img/list-swiper/list-swiper-2.jpg",
+                    "/static/img/list-swiper/list-swiper-3.jpg",
+                    "/static/img/list-swiper/list-swiper-4.jpg"
+                ],
+                "name": "飞利浦 全光谱LED植物生长灯家用多肉补光灯仿太阳自然光光合作用灯 16W全光谱灯泡+国产黑色圆盘灯架"
+            },
+            {
+                "id": 2,
+                "man": true,
+                "mallPrice": 339,
+                "image": "/static/img/HotGood/hot-2.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-2.jpg",
+                    "/static/img/list-swiper/list-swiper-5.jpg",
+                    "/static/img/list-swiper/list-swiper-6.jpg",
+                    "/static/img/list-swiper/list-swiper-7.jpg",
+                    "/static/img/list-swiper/list-swiper-8.jpg"
+                ],
+                "name": "鞋架简易家用经济型收纳柜多层防尘鞋柜多功能置物架组装 60cm六层红叶枫木 放心购"
+            },
+            {
+                "id": 3,
+                "man": true,
+                "mallPrice": 179,
+                "image": "/static/img/HotGood/hot-3.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-3.jpg",
+                    "/static/img/list-swiper/list-swiper-9.jpg",
+                    "/static/img/list-swiper/list-swiper-10.jpg",
+                    "/static/img/list-swiper/list-swiper-11.jpg",
+                    "/static/img/list-swiper/list-swiper-12.jpg"
+                ],
+                "name": " 欧士多娜男士商务自动折叠黑胶10骨加固抗风加大双人平头晴雨两用 钢琴黑（平头礼盒款）"
+            },
+            {
+                "id": 4,
+                "man": true,
+                "mallPrice": 289,
+                "image": "/static/img/HotGood/hot-4.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-4.jpg",
+                    "/static/img/list-swiper/list-swiper-13.jpg",
+                    "/static/img/list-swiper/list-swiper-14.jpg",
+                    "/static/img/list-swiper/list-swiper-15.jpg",
+                    "/static/img/list-swiper/list-swiper-16.jpg"
+                ],
+                "name": "片仔癀珍珠臻白2件套 补水保湿提亮肤色国货护肤品"
+            },
+            {
+                "id": 5,
+                "man": true,
+                "mallPrice": 78,
+                "image": "/static/img/HotGood/hot-5.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-5.jpg",
+                    "/static/img/list-swiper/list-swiper-17.jpg",
+                    "/static/img/list-swiper/list-swiper-18.jpg",
+                    "/static/img/list-swiper/list-swiper-19.jpg",
+                    "/static/img/list-swiper/list-swiper-20.jpg"
+                ],
+                "name": "沙发巾 盖布防滑沙发套全包欧式沙发垫套装 组合沙发 四季通用沙发毯全盖 岩灰色菱形格子款 180*230cm适合双人位沙发"
+            },
+            {
+                "id": 6,
+                "mallPrice": 88,
+                "image": "/static/img/HotGood/hot-6.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-6.jpg",
+                    "/static/img/list-swiper/list-swiper-21.jpg",
+                    "/static/img/list-swiper/list-swiper-22.jpg",
+                    "/static/img/list-swiper/list-swiper-23.jpg",
+                    "/static/img/list-swiper/list-swiper-24.jpg"
+                ],
+                "name": "美珍香（BEE CHENG HIANG） 香酥猪肉松195g儿童餐食搭档肉松烘焙寿司"
+            },
+            {
+                "id": 7,
+                "mallPrice": 219.00,
+                "image": "/static/img/HotGood/hot-7.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-7.jpg",
+                    "/static/img/list-swiper/list-swiper-25.jpg",
+                    "/static/img/list-swiper/list-swiper-26.jpg",
+                    "/static/img/list-swiper/list-swiper-27.jpg",
+                    "/static/img/list-swiper/list-swiper-28.jpg"
+                ],
+                "name": "飞利浦 Type-C扩展坞 适用苹果MacBook华为P30手机USB-C转HDMI转换器4K投屏转接头分线器数据线拓展坞"
+            },
+            {
+                "id": 8,
+                "man": true,
+                "mallPrice": 68.00,
+                "image": "/static/img/HotGood/hot-8.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-8.jpg",
+                    "/static/img/list-swiper/list-swiper-29.jpg",
+                    "/static/img/list-swiper/list-swiper-30.jpg",
+                    "/static/img/list-swiper/list-swiper-31.jpg",
+                    "/static/img/list-swiper/list-swiper-32.jpg"
+                ],
+                "name": "汽车临时停车号码牌卡通创意车内装饰车载粉小猪号码牌车上用品女 组合猪粉色号码"
+            },
+            {
+                "id": 9,
+                "man": true,
+                "mallPrice": 289,
+                "image": "/static/img/HotGood/hot-4.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-4.jpg",
+                    "/static/img/list-swiper/list-swiper-13.jpg",
+                    "/static/img/list-swiper/list-swiper-14.jpg",
+                    "/static/img/list-swiper/list-swiper-15.jpg",
+                    "/static/img/list-swiper/list-swiper-16.jpg"
+                ],
+                "name": "片仔癀珍珠臻白2件套 补水保湿提亮肤色国货护肤品"
+            },
+            {
+                "id": 10,
+                "man": true,
+                "mallPrice": 78,
+                "image": "/static/img/HotGood/hot-5.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-5.jpg",
+                    "/static/img/list-swiper/list-swiper-17.jpg",
+                    "/static/img/list-swiper/list-swiper-18.jpg",
+                    "/static/img/list-swiper/list-swiper-19.jpg",
+                    "/static/img/list-swiper/list-swiper-20.jpg"
+                ],
+                "name": "沙发巾 盖布防滑沙发套全包欧式沙发垫套装 组合沙发 四季通用沙发毯全盖 岩灰色菱形格子款 180*230cm适合双人位沙发"
+            },
+            {
+                "id": 11,
+                "mallPrice": 88,
+                "image": "/static/img/HotGood/hot-6.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-6.jpg",
+                    "/static/img/list-swiper/list-swiper-21.jpg",
+                    "/static/img/list-swiper/list-swiper-22.jpg",
+                    "/static/img/list-swiper/list-swiper-23.jpg",
+                    "/static/img/list-swiper/list-swiper-24.jpg"
+                ],
+                "name": "美珍香（BEE CHENG HIANG） 香酥猪肉松195g儿童餐食搭档肉松烘焙寿司"
+            },
+            {
+                "id": 12,
+                "man": true,
+                "mallPrice": 339,
+                "image": "/static/img/HotGood/hot-2.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-2.jpg",
+                    "/static/img/list-swiper/list-swiper-5.jpg",
+                    "/static/img/list-swiper/list-swiper-6.jpg",
+                    "/static/img/list-swiper/list-swiper-7.jpg",
+                    "/static/img/list-swiper/list-swiper-8.jpg"
+                ],
+                "name": "鞋架简易家用经济型收纳柜多层防尘鞋柜多功能置物架组装 60cm六层红叶枫木 放心购"
+            },
+            {
+                "id": 13,
+                "man": true,
+                "mallPrice": 179,
+                "image": "/static/img/HotGood/hot-3.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-3.jpg",
+                    "/static/img/list-swiper/list-swiper-9.jpg",
+                    "/static/img/list-swiper/list-swiper-10.jpg",
+                    "/static/img/list-swiper/list-swiper-11.jpg",
+                    "/static/img/list-swiper/list-swiper-12.jpg"
+                ],
+                "name": " 欧士多娜男士商务自动折叠黑胶10骨加固抗风加大双人平头晴雨两用 钢琴黑（平头礼盒款）"
+            },
+            {
+                "id": 14,
+                "man": true,
+                "mallPrice": 289,
+                "image": "/static/img/HotGood/hot-4.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-4.jpg",
+                    "/static/img/list-swiper/list-swiper-13.jpg",
+                    "/static/img/list-swiper/list-swiper-14.jpg",
+                    "/static/img/list-swiper/list-swiper-15.jpg",
+                    "/static/img/list-swiper/list-swiper-16.jpg"
+                ],
+                "name": "片仔癀珍珠臻白2件套 补水保湿提亮肤色国货护肤品"
+            },
+            {
+                "id": 15,
+                "man": true,
+                "mallPrice": 78,
+                "image": "/static/img/HotGood/hot-5.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-5.jpg",
+                    "/static/img/list-swiper/list-swiper-17.jpg",
+                    "/static/img/list-swiper/list-swiper-18.jpg",
+                    "/static/img/list-swiper/list-swiper-19.jpg",
+                    "/static/img/list-swiper/list-swiper-20.jpg"
+                ],
+                "name": "沙发巾 盖布防滑沙发套全包欧式沙发垫套装 组合沙发 四季通用沙发毯全盖 岩灰色菱形格子款 180*230cm适合双人位沙发"
+            },
+            {
+                "id": 16,
+                "mallPrice": 88,
+                "image": "/static/img/HotGood/hot-6.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-6.jpg",
+                    "/static/img/list-swiper/list-swiper-21.jpg",
+                    "/static/img/list-swiper/list-swiper-22.jpg",
+                    "/static/img/list-swiper/list-swiper-23.jpg",
+                    "/static/img/list-swiper/list-swiper-24.jpg"
+                ],
+                "name": "美珍香（BEE CHENG HIANG） 香酥猪肉松195g儿童餐食搭档肉松烘焙寿司"
+            },
+            {
+                "id": 17,
+                "mallPrice": 219.00,
+                "image": "/static/img/HotGood/hot-7.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-7.jpg",
+                    "/static/img/list-swiper/list-swiper-25.jpg",
+                    "/static/img/list-swiper/list-swiper-26.jpg",
+                    "/static/img/list-swiper/list-swiper-27.jpg",
+                    "/static/img/list-swiper/list-swiper-28.jpg"
+                ],
+                "name": "飞利浦 Type-C扩展坞 适用苹果MacBook华为P30手机USB-C转HDMI转换器4K投屏转接头分线器数据线拓展坞"
+            },
+            {
+                "id": 18,
+                "man": true,
+                "mallPrice": 68.00,
+                "image": "/static/img/HotGood/hot-8.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-8.jpg",
+                    "/static/img/list-swiper/list-swiper-29.jpg",
+                    "/static/img/list-swiper/list-swiper-30.jpg",
+                    "/static/img/list-swiper/list-swiper-31.jpg",
+                    "/static/img/list-swiper/list-swiper-32.jpg"
+                ],
+                "name": "汽车临时停车号码牌卡通创意车内装饰车载粉小猪号码牌车上用品女 组合猪粉色号码"
+            },
+            {
+                "id": 19,
+                "man": true,
+                "mallPrice": 289,
+                "image": "/static/img/HotGood/hot-4.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-4.jpg",
+                    "/static/img/list-swiper/list-swiper-13.jpg",
+                    "/static/img/list-swiper/list-swiper-14.jpg",
+                    "/static/img/list-swiper/list-swiper-15.jpg",
+                    "/static/img/list-swiper/list-swiper-16.jpg"
+                ],
+                "name": "片仔癀珍珠臻白2件套 补水保湿提亮肤色国货护肤品"
+            },
+            {
+                "id": 20,
+                "mallPrice": 88,
+                "image": "/static/img/HotGood/hot-6.jpg",
+                "img": [
+                    "/static/img/HotGood/hot-6.jpg",
+                    "/static/img/list-swiper/list-swiper-21.jpg",
+                    "/static/img/list-swiper/list-swiper-22.jpg",
+                    "/static/img/list-swiper/list-swiper-23.jpg",
+                    "/static/img/list-swiper/list-swiper-24.jpg"
+                ],
+                "name": "美珍香（BEE CHENG HIANG） 香酥猪肉松195g儿童餐食搭档肉松烘焙寿司"
+            }
+        ],
+        "column": [
+            {
+                "name": "热门推荐",
+                "api2": "home0"
+            },
+            {
+                "name": "手机数码",
+                "api2": "home1"
+            },
+            {
+                "name": "家用电器",
+                "api2": "home0"
+            },
+            {
+                "name": "电脑办公",
+                "api2": "home1"
+            },
+            {
+                "name": "计生情趣",
+                "api2": "home0"
+            },
+            {
+                "name": "美妆护肤",
+                "api2": "home1"
+            },
+            {
+                "name": "个护清洁",
+                "api2": "home0"
+            },
+            {
+                "name": "汽车生活",
+                "api2": "home1"
+            },
+            {
+                "name": "美妆护肤",
+                "api2": "home0"
+            },
+            {
+                "name": "个护清洁",
+                "api2": "home0"
+            },
+            {
+                "name": "汽车生活",
+                "api2": "home1"
+            },
+            {
+                "name": "美妆护肤",
+                "api2": "home0"
+            }
+        ],
+        "compa": [
+            {
+                "image": "/static/img/me/fk.png",
+                "name": "待付款"
+            },
+            {
+                "image": "/static/img/me/sh.png",
+                "name": "待发货"
+            },
+            {
+                "image": "/static/img/me/fh.png",
+                "name": "配送中"
+            },
+            {
+                "image": "/static/img/me/tk.png",
+                "name": "退换/售后"
+            }
+        ],
+        "lowimg": [
+            {
+                "image": "/static/img/me/pj.png",
+                "name": "消息中心"
+            },
+            {
+                "image": "/static/img/me/dym.png",
+                "name": "花多积分"
+            },
+            {
+                "image": "/static/img/me/kf.png",
+                "name": "在线客服"
+            },
+            {
+                "image": "/static/img/me/ys.png",
+                "name": "国际代购"
+            },
+            {
+                "image": "/static/img/me/dym.png",
+                "name": "花多积分"
+            },
+            {
+                "image": "/static/img/me/ys.png",
+                "name": "国际代购"
+            }
+        ],
+        "CentralTabs": [
+            {
+                "tit": "商品介绍",
+                "zp": [
+                    {
+                        "image": "/static/img/Central/Central-1.jpg"
+                    },
+                    {
+                        "image": "/static/img/Central/Central-2.jpg"
+                    },
+                    {
+                        "image": "/static/img/Central/Central-3.jpg"
+                    },
+                    {
+                        "image": "/static/img/Central/Central-4.jpg"
+                    }
+                ]
+            },
+            {
+                "tit": "规格参数",
+                "zp": [
+                    {
+                        "image": "/static/img/Central/Central-5.jpg"
+                    },
+                    {
+                        "image": "/static/img/Central/Central-6.jpg"
+                    }
+                ]
+            },
+            {
+                "tit": "售后保障",
+                "zp": [
+                    {
+                        "image": "/static/img/Central/Central-7.jpg"
+                    },
+                    {
+                        "image": "/static/img/Central/Central-8.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

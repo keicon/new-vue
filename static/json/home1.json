@@ -1,0 +1,118 @@
+{
+    "pailei": [
+        {
+            "list": [
+                {
+                    "title": "热门品牌",
+                    "ul": [
+                        {
+                            "id": "t1",
+                            "title": "小米",
+                            "url": "/static/img/fenlei/fen2/sort1.png"
+                        },
+                        {
+                            "id": "t2",
+                            "title": "华为",
+                            "url": "/static/img/fenlei/fen2/sort2.png"
+                        },
+                        {
+                            "id": "t3",
+                            "title": "荣耀",
+                            "url": "/static/img/fenlei/fen2/sort3.png"
+                        },
+                        {
+                            "id": "t4",
+                            "title": "iphone",
+                            "url": "/static/img/fenlei/fen2/sort4.png"
+                        },
+                        {
+                            "id": "t5",
+                            "title": "vivo",
+                            "url": "/static/img/fenlei/fen2/sort5.png"
+                        },
+                        {
+                            "id": "t6",
+                            "title": "oppo",
+                            "url": "/static/img/fenlei/fen2/sort6.png"
+                        },
+                        {
+                            "id": "t7",
+                            "title": "魅族",
+                            "url": "/static/img/fenlei/fen2/sort7.png"
+                        },
+                        {
+                            "id": "t8",
+                            "title": "iphone",
+                            "url": "/static/img/fenlei/fen2/sort4.png"
+                        },
+                        {
+                            "id": "t9",
+                            "title": "vivo",
+                            "url": "/static/img/fenlei/fen2/sort5.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "手机通讯",
+                    "ul": [
+                        {
+                            "id": "t1",
+                            "title": "老人机",
+                            "url": "/static/img/fenlei/fen2/sort8.png"
+                        },
+                        {
+                            "id": "t2",
+                            "title": "手机",
+                            "url": "/static/img/fenlei/fen2/sort9.png"
+                        },
+                        {
+                            "id": "t3",
+                            "title": "全面屏手机",
+                            "url": "/static/img/fenlei/fen2/sort10.png"
+                        },
+                        {
+                            "id": "t1",
+                            "title": "老人机",
+                            "url": "/static/img/fenlei/fen2/sort8.png"
+                        },
+                        {
+                            "id": "t2",
+                            "title": "手机",
+                            "url": "/static/img/fenlei/fen2/sort9.png"
+                        },
+                        {
+                            "id": "t3",
+                            "title": "全面屏手机",
+                            "url": "/static/img/fenlei/fen2/sort10.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "运营商",
+                    "ul": [
+                        {
+                            "id": "t1",
+                            "title": "合约机",
+                            "url": "/static/img/fenlei/fen2/sort11.png"
+                        },
+                        {
+                            "id": "t2",
+                            "title": "选号卡",
+                            "url": "/static/img/fenlei/fen2/sort12.png"
+                        },
+                        {
+                            "id": "t3",
+                            "title": "办套餐",
+                            "url": "/static/img/fenlei/fen2/sort8.png"
+                        },
+                        {
+                            "id": "t1",
+                            "title": "淘网办",
+                            "url": "/static/img/fenlei/fen2/sort12.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
